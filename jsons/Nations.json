@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Alchembrew",
-		"leaderName": "Zephyr Maelstrom",
-		"adjective": ["Alchembrewian"],
+		"name": "New England Republic",
+		"leaderName": "Maura Healy",
+		"adjective": ["New English"],
 		"startBias": ["Grassland","Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Hello, Mr. President.",
-		"startIntroPart2": "You, President Zephyr Xavier Maelstrom, are the leader of the Republic of the Rising Star, the mighty Alchembrew.  After winning independence from Germany, you must now lead your nation to prosperity!"
+		"startIntroPart1": "Hello, Madam President.",
+		"startIntroPart2": "You, President Maura Healy, are the leader of the New England Republic, encompassing Massachusetts, Maine, Vermont, Rhode Island, New Hampshire, and Connecticut.  After winning independence from America, you must now lead your nation to prosperity!"
 		
-		"declaringWar": "You have crossed Alchembrew one too many times. Now, prepare to be destroyed like the you have. never seen before",
+		"declaringWar": "You have crossed my people one too many times. Now, prepare to be destroyed like the you have. never seen before",
 		"attacked": "Your army fighting my army is like bringing a knife to a gunfight. After we win the war, you will be exiled, and forced to live away from any civilization, as an outcast."
-		"defeated": "We may have fallen, but the Aether will still crush you.",
-		"introduction": "Hello. I am President Zephyr Maelstrom, of Alchembrew.  I welcome you to the land of the Rising Star.  Would you like to play a game of football?",
+		"defeated": "We may have fallen, but the Republic will still crush you.",
+		"introduction": "Hello. I am President Maura Healy, of New England.  I welcome you to our land.  Would you like to play a game of soccer?",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,9 +27,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,71,171],
-		"innerColor": [220,20,60],
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
 		"unique": "Starts with [Mobile Tactics]",
-		"cities": ["Alchembrew","Dryden","Milwaukee","New Viridia","Westport","Valour Port","New Amsterdam","New Rotterdam","New Fresno", "New Kennewick", "New Astana"]
+		"cities": ["Boston","Philadelphia","Montpelier","Concord","Portland","Worcster","Providence"]
 	}
 ]
